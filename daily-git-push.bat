@@ -1,10 +1,14 @@
 @echo off
 :: Navigate to the project directory
-cd /d "C:\Users\n1cit\OneDrive - Cape Peninsula University of Technology\Documents\2KRONOS\Data-Analysis-with-Python-and-Pandas"
+cd /d "C:\Users\n1cit\OneDrive - Cape Peninsula University of Technology\Documents\2KRONOS\SYSTEM ENG"
 if %ERRORLEVEL% neq 0 (
     echo Failed to navigate to the project directory.
     exit /b %ERRORLEVEL%
 )
+
+:: Force correct Git identity for this repo (local config only, won't affect other repos)
+git config user.name "2Kronos"
+git config user.email "rayachrinovic@gmail.com"
 
 :: Stage all changes
 git add .
