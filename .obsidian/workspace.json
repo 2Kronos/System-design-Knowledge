@@ -157,12 +157,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How can I identify files and directories.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from How can I identify files and directories"
+              "title": "Outgoing links"
             }
           },
           {
@@ -243,11 +242,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "e75866da9ca663f8",
+  "active": "981d4ae76a88fb41",
   "lastOpenFiles": [
+    "How can I identify files and directories.md",
     "Manipulating files and Directories",
     "2026-07-07.md",
-    "How can I identify files and directories.md",
     "f1",
     "Journal/2025-02-17.md",
     "Technical/Snippet/EFCore InMemory Db Config with Test.md",
@@ -290,7 +289,6 @@
     "Business/Journal/Technical/Vlog/Why not ipad anymore.md",
     "Business/Journal/Technical/Technical/Self-Improvement",
     "Business/Journal/Technical/Snippet/Contents",
-    "Business/Journal/Technical/Plans/Journal",
     "Business/Journal/Technical/Migrated/Mind Map.canvas",
     "Journal/Technical/Migrated/Mind Map.canvas",
     "Technical/Migrated/Mind Map.canvas"
