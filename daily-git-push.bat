@@ -10,6 +10,15 @@ if %ERRORLEVEL% neq 0 (
 git config user.name "2Kronos"
 git config user.email "rayachrinovic@gmail.com"
 
+:: PULL LATEST CHANGES FIRST (automatically)
+echo Pulling latest changes from remote...
+git pull origin master --no-edit
+if %ERRORLEVEL% neq 0 (
+    echo Failed to pull latest changes. Resolve conflicts manually.
+    exit /b %ERRORLEVEL%
+)
+
+
 :: Stage all changes
 git add .
 if %ERRORLEVEL% neq 0 (
