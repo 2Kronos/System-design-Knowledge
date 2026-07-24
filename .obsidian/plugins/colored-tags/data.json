@@ -258,7 +258,14 @@
     "me": 72,
     "me/mind": 5,
     "me/habbits": 6,
-    "how": 73
+    "how": 73,
+    "networking": 74,
+    "ip-addressing": 75,
+    "subnetting": 76,
+    "ccna": 77,
+    "dhcp": 78,
+    "http": 79,
+    "web-development": 80
   },
   "_version": 3
 }
