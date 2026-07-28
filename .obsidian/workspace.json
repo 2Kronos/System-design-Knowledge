@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Client Server/Untitled.md",
+                "file": "1. Client Server/3. Http basics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "3. Http basics"
             }
           }
         ]
@@ -221,10 +221,10 @@
   },
   "active": "011cfface5dc3c6e",
   "lastOpenFiles": [
-    "1. Client Server/Untitled.md",
+    "1. Client Server/3. HTTP  basics.md",
+    "1. Client Server/3. Http basics.md",
     "1. Client Server/2. IP Basics - What is an IP Address.md",
     "Templates/Study Note Template.md",
-    "1. Client Server/3. HTTP  basics.md",
     "1. Client Server/1. Client Server model.md",
     "1. Client Server/4. DNS Basics.md",
     "10. API basics/Untitled.md",
