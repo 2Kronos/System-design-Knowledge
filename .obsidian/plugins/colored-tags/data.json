@@ -265,7 +265,10 @@
     "ccna": 77,
     "dhcp": 78,
     "http": 79,
-    "web-development": 80
+    "web-development": 80,
+    "dns": 81,
+    "dns-security": 82,
+    "domain-names": 83
   },
   "_version": 3
 }

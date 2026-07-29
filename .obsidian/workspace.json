@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Client Server/3. Http basics.md",
+                "file": "1. Client Server/4. How DNS Works.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Http basics"
+              "title": "4. How DNS Works"
             }
           }
         ]
@@ -86,10 +86,14 @@
             "id": "981d4ae76a88fb41",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "1. Client Server/Server/node_modules/mime-types/HISTORY.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HISTORY"
             }
           }
         ]
@@ -219,44 +223,44 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "011cfface5dc3c6e",
+  "active": "981d4ae76a88fb41",
   "lastOpenFiles": [
-    "1. Client Server/3. HTTP  basics.md",
+    "1. Client Server/4. How DNS Works.md",
+    "1. Client Server/4. DNS Basics.md",
+    "1. Client Server/Unconfirmed 200496.crdownload",
     "1. Client Server/3. Http basics.md",
+    "1. Client Server/1. Client Server model.md",
+    "1. Client Server/Server/node_modules/iconv-lite/lib/streams.js",
+    "1. Client Server/Server/node_modules/iconv-lite/lib/index.js",
+    "1. Client Server/Server/node_modules/iconv-lite/lib/index.d.ts",
+    "1. Client Server/Server/node_modules/iconv-lite/lib/extend-node.js",
+    "1. Client Server/Server/node_modules/iconv-lite/lib/bom-handling.js",
+    "1. Client Server/Server/node_modules/iconv-lite/lib",
+    "1. Client Server/Server/node_modules/iconv-lite/encodings/tables/shiftjis.json",
+    "1. Client Server/Server/node_modules/iconv-lite/encodings/tables/gbk-added.json",
+    "1. Client Server/Server/node_modules/iconv-lite/encodings/tables/gb18030-ranges.json",
+    "1. Client Server/Server/node_modules/send/node_modules/ms/readme.md",
+    "1. Client Server/Server/node_modules/send/node_modules/ms/license.md",
+    "1. Client Server/Server/node_modules/nodemon/node_modules/ms/license.md",
+    "1. Client Server/Server/node_modules/nodemon/node_modules/ms/readme.md",
+    "1. Client Server/Server/node_modules/nodemon/node_modules/debug/README.md",
+    "1. Client Server/Server/node_modules/to-regex-range/README.md",
+    "1. Client Server/Server/node_modules/mime-types/README.md",
+    "1. Client Server/Server/node_modules/mime-types/HISTORY.md",
+    "1. Client Server/Server/node_modules/mime-db/README.md",
+    "1. Client Server/Server/node_modules/mime-db/HISTORY.md",
+    "1. Client Server/Server/node_modules/math-intrinsics/README.md",
+    "1. Client Server/Server/node_modules/math-intrinsics/CHANGELOG.md",
+    "1. Client Server/Server/node_modules/media-typer/HISTORY.md",
+    "1. Client Server/Server/node_modules/media-typer/README.md",
+    "1. Client Server/Server/node_modules/is-number/README.md",
+    "1. Client Server/Server/node_modules/is-glob/README.md",
+    "1. Client Server/Server/node_modules/is-extglob/README.md",
+    "1. Client Server/3. HTTP  basics.md",
     "1. Client Server/2. IP Basics - What is an IP Address.md",
     "Templates/Study Note Template.md",
-    "1. Client Server/1. Client Server model.md",
-    "1. Client Server/4. DNS Basics.md",
     "10. API basics/Untitled.md",
     "1. Client Server/2. Ip basics.md",
-    "Untitled.md",
-    "Templates/Unconfirmed 847596.crdownload",
-    "Templates",
-    "Consistent hashing, rate limiters",
-    "9. Back of envelope practice",
-    "8. Learn 4 step interview framework",
-    "6.  Message queues and async processing",
-    "5. Replication and sharding",
-    "10. API basics",
-    "4. Databases",
-    "3. Caching",
-    "2026-07-07.md",
-    "How can I identify files and directories.md",
-    "Journal/2025-02-17.md",
-    "Technical/Snippet/EFCore InMemory Db Config with Test.md",
-    "Technical/Home/DASH.md",
-    "2025-02-16.md",
-    "Technical/Technical/Azure Cache for Redis (Pluralsight).md",
-    "Main Dash.md",
-    "Technical/Technical/SQLite vs SQL Server.md",
-    "Technical/Technical/API Authentications.md",
-    "Blue/Snippets/SQL Script Disposable Income.md",
-    "Journal/Blue/Journal/2024-06-14.md",
-    "Technical/Technical/Idempotency in rest api.md",
-    "publish the Obsidian Vid.md",
-    "Business/Journal/2025-02-15 - todays.md",
-    "Business/Journal/2025-02-14.md",
-    "Blue/Common Issues/Everymessage, check documents being generated or not, Unproduced Welcome Letters.md",
     "Business/Journal/Technical/Migrated/assets/why-not-jwt.png",
     "Business/Journal/Technical/Migrated/assets/original.jpg",
     "Business/Journal/Technical/Migrated/assets/oYukX.jpg",
