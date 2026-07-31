@@ -269,7 +269,15 @@
     "dns": 81,
     "dns-security": 82,
     "domain-names": 83,
-    "express": 84
+    "express": 84,
+    "https": 85,
+    "tcp": 86,
+    "ssl-tls": 87,
+    "system-design": 88,
+    "web-browsers": 89,
+    "performance": 90,
+    "scalability": 91,
+    "architecture": 92
   },
   "_version": 3
 }

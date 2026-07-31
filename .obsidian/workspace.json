@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Client Server/4. How DNS Works.md",
+                "file": "1. Client Server/5. Performance vs Scalability.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. How DNS Works"
+              "title": "5. Performance vs Scalability"
+            }
+          },
+          {
+            "id": "18cf79c2ce4f0c37",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -42,7 +55,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -88,12 +103,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Client Server/Server/node_modules/mime-types/HISTORY.md",
+                "file": "1. Client Server/3. Http basics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HISTORY"
+              "title": "3. Http basics"
             }
           }
         ]
@@ -223,15 +238,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "011cfface5dc3c6e",
+  "active": "18cf79c2ce4f0c37",
   "lastOpenFiles": [
+    "1. Client Server/5. Performance vs Scalability.md",
+    "1. Client Server/Unconfirmed 913205.crdownload",
+    "1. Client Server/1. What Happens When You Type a URL.md",
+    "1. Client Server/3. Http basics.md",
+    "1. Client Server/4. How DNS Works.md",
+    "1. Client Server/4. DNS Basics.md",
+    "1. Client Server/Unconfirmed 843562.crdownload",
     "1. Client Server/Server/node_modules/destroy/index.js",
     "1. Client Server/Server/node_modules/destroy/package.json",
     "1. Client Server/Server/node_modules/side-channel/index.js",
     "1. Client Server/Server/node_modules/side-channel/package.json",
-    "1. Client Server/4. DNS Basics.md",
     "1. Client Server/Server/Re.md",
-    "1. Client Server/4. How DNS Works.md",
     "1. Client Server/Server/node_modules/mime-types/HISTORY.md",
     "1. Client Server/Server/package-lock.json",
     "1. Client Server/Server/node_modules/vary/package.json",
@@ -239,10 +259,7 @@
     "1. Client Server/Server/node_modules/vary/README.md",
     "1. Client Server/Server/node_modules/vary/LICENSE",
     "1. Client Server/Server/node_modules/vary/HISTORY.md",
-    "1. Client Server/Server/node_modules/utils-merge/package.json",
-    "1. Client Server/Server/node_modules/utils-merge/index.js",
     "1. Client Server/Server/node_modules/utils-merge/README.md",
-    "1. Client Server/Server/node_modules/utils-merge/LICENSE",
     "1. Client Server/Server/node_modules/unpipe/README.md",
     "1. Client Server/Server/node_modules/unpipe/HISTORY.md",
     "1. Client Server/Server/node_modules/undefsafe/README.md",
@@ -258,9 +275,6 @@
     "1. Client Server/Server/node_modules/side-channel-weakmap/README.md",
     "1. Client Server/Server/node_modules/side-channel-weakmap/CHANGELOG.md",
     "1. Client Server/Server/node_modules/side-channel-map/README.md",
-    "1. Client Server/Server/node_modules/side-channel-map/CHANGELOG.md",
-    "1. Client Server/Server/node_modules/side-channel-list/README.md",
-    "1. Client Server/Server/node_modules/side-channel-list/CHANGELOG.md",
     "Business/Journal/Technical/Migrated/assets/why-not-jwt.png",
     "Business/Journal/Technical/Migrated/assets/original.jpg",
     "Business/Journal/Technical/Migrated/assets/oYukX.jpg",
