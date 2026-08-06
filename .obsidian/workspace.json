@@ -25,12 +25,14 @@
             "id": "18cf79c2ce4f0c37",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.13.4"
+                "file": "2. Load balancing/Load Balancers for System Design Interviews.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.13.4"
+              "icon": "lucide-file",
+              "title": "Load Balancers for System Design Interviews"
             }
           }
         ],
@@ -240,6 +242,8 @@
   },
   "active": "18cf79c2ce4f0c37",
   "lastOpenFiles": [
+    "2. Load balancing/Untitled.md",
+    "2. Load balancing/Load Balancers for System Design Interviews.md",
     "1. Client Server/5. Performance vs Scalability.md",
     "1. Client Server/Unconfirmed 913205.crdownload",
     "1. Client Server/1. What Happens When You Type a URL.md",
@@ -274,7 +278,6 @@
     "1. Client Server/Server/node_modules/simple-update-notifier/README.md",
     "1. Client Server/Server/node_modules/side-channel-weakmap/README.md",
     "1. Client Server/Server/node_modules/side-channel-weakmap/CHANGELOG.md",
-    "1. Client Server/Server/node_modules/side-channel-map/README.md",
     "Business/Journal/Technical/Migrated/assets/why-not-jwt.png",
     "Business/Journal/Technical/Migrated/assets/original.jpg",
     "Business/Journal/Technical/Migrated/assets/oYukX.jpg",
