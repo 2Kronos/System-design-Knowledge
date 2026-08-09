@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Load balancing/Load Balancers for System Design Interviews.md",
+                "file": "2. Load balancing/L4 vs L7 Load Balancing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Load Balancers for System Design Interviews"
+              "title": "L4 vs L7 Load Balancing"
             }
           }
         ],
@@ -242,8 +242,10 @@
   },
   "active": "18cf79c2ce4f0c37",
   "lastOpenFiles": [
+    "2. Load balancing/2. Vertical vs Horizontal Scaling.md",
+    "2. Load balancing/L4 vs L7 Load Balancing.md",
+    "2. Load balancing/1. Load Balancers for System Design Interviews.md",
     "2. Load balancing/Untitled.md",
-    "2. Load balancing/Load Balancers for System Design Interviews.md",
     "1. Client Server/5. Performance vs Scalability.md",
     "1. Client Server/Unconfirmed 913205.crdownload",
     "1. Client Server/1. What Happens When You Type a URL.md",
@@ -276,8 +278,6 @@
     "1. Client Server/Server/node_modules/statuses/README.md",
     "1. Client Server/Server/node_modules/statuses/HISTORY.md",
     "1. Client Server/Server/node_modules/simple-update-notifier/README.md",
-    "1. Client Server/Server/node_modules/side-channel-weakmap/README.md",
-    "1. Client Server/Server/node_modules/side-channel-weakmap/CHANGELOG.md",
     "Business/Journal/Technical/Migrated/assets/why-not-jwt.png",
     "Business/Journal/Technical/Migrated/assets/original.jpg",
     "Business/Journal/Technical/Migrated/assets/oYukX.jpg",

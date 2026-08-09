@@ -280,7 +280,9 @@
     "architecture": 92,
     "load-balancing": 93,
     "distributed-systems": 94,
-    "interviews": 95
+    "interviews": 95,
+    "infrastructure": 96,
+    "osi-model": 97
   },
   "_version": 3
 }
