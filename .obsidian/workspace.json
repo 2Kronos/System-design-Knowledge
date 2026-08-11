@@ -240,10 +240,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "18cf79c2ce4f0c37",
+  "active": "42af4f1ef891900d",
   "lastOpenFiles": [
-    "2. Load balancing/2. Vertical vs Horizontal Scaling.md",
+    "3. Caching/Caching in System Design Interviews.md",
+    "3. Caching/Unconfirmed 575666.crdownload",
+    "Templates/Study Note Template.md",
     "2. Load balancing/L4 vs L7 Load Balancing.md",
+    "2. Load balancing/2. Vertical vs Horizontal Scaling.md",
     "2. Load balancing/1. Load Balancers for System Design Interviews.md",
     "2. Load balancing/Untitled.md",
     "1. Client Server/5. Performance vs Scalability.md",
@@ -263,7 +266,6 @@
     "1. Client Server/Server/node_modules/vary/package.json",
     "1. Client Server/Server/node_modules/vary/index.js",
     "1. Client Server/Server/node_modules/vary/README.md",
-    "1. Client Server/Server/node_modules/vary/LICENSE",
     "1. Client Server/Server/node_modules/vary/HISTORY.md",
     "1. Client Server/Server/node_modules/utils-merge/README.md",
     "1. Client Server/Server/node_modules/unpipe/README.md",
@@ -276,8 +278,6 @@
     "1. Client Server/Server/node_modules/toidentifier/HISTORY.md",
     "1. Client Server/Server/node_modules/supports-color/readme.md",
     "1. Client Server/Server/node_modules/statuses/README.md",
-    "1. Client Server/Server/node_modules/statuses/HISTORY.md",
-    "1. Client Server/Server/node_modules/simple-update-notifier/README.md",
     "Business/Journal/Technical/Migrated/assets/why-not-jwt.png",
     "Business/Journal/Technical/Migrated/assets/original.jpg",
     "Business/Journal/Technical/Migrated/assets/oYukX.jpg",
