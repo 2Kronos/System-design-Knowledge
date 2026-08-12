@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Load balancing/L4 vs L7 Load Balancing.md",
+                "file": "3. Caching/Caching in System Design Interviews.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L4 vs L7 Load Balancing"
+              "title": "Caching in System Design Interviews"
             }
           }
         ],
@@ -240,12 +240,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "42af4f1ef891900d",
+  "active": "18cf79c2ce4f0c37",
   "lastOpenFiles": [
+    "2. Load balancing/L4 vs L7 Load Balancing.md",
     "3. Caching/Caching in System Design Interviews.md",
     "3. Caching/Unconfirmed 575666.crdownload",
     "Templates/Study Note Template.md",
-    "2. Load balancing/L4 vs L7 Load Balancing.md",
     "2. Load balancing/2. Vertical vs Horizontal Scaling.md",
     "2. Load balancing/1. Load Balancers for System Design Interviews.md",
     "2. Load balancing/Untitled.md",

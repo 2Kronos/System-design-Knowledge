@@ -282,7 +282,9 @@
     "distributed-systems": 94,
     "interviews": 95,
     "infrastructure": 96,
-    "osi-model": 97
+    "osi-model": 97,
+    "caching": 98,
+    "cdn": 99
   },
   "_version": 3
 }
